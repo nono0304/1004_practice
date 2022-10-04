@@ -1,0 +1,9 @@
+@chraset "utf-8";
+
+body {
+    font-size: 14px;
+    font-weight: 0.2;
+    font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+}
+
+.inner {}
